@@ -1,4 +1,4 @@
-This is a very old personal project on analysis Digital Elevation Models for my hometown in India.
+This is a very old personal project on analysing Digital Elevation Models for my hometown in India.
 
 I will find the jupyter notebook and upload here soon.
 
